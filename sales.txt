@@ -1,0 +1,6 @@
+1,sugar,50.0,kg,5.0
+2,sugar,65.0,kg,5.0
+3,milk,10.0,liter,4.5
+4,salt,50.0,kg,8.9
+5,soft drink,40.0,liter,3.85
+6,bread,25.0,kg,6.25

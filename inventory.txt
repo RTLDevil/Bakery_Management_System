@@ -1,0 +1,6 @@
+sugar:285
+salt:50
+bread:80
+baking soda:80
+milk:100
+soft drink:50
